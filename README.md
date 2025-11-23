@@ -1,4 +1,4 @@
-Prefecture-Level Population by Age Group in Japan (1970–2024)   
+*Prefecture-Level Population by Age Group in Japan (1970–2024)*   
 
 This repository provides a harmonized, long-format dataset of population counts by Prefecture × Year × Age Group, covering 1970–2024 for all 47 prefectures in Japan.
 Data are extracted, cleaned, and standardized from publicly available statistics provided by e-Stat (the Portal Site of Official Statistics of Japan).
